@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_name">City Name</string>
+    <string name="_25">25</string>
+    <string name="time">time</string>
+    <string name="enter_city_here">Enter city here</string>
+    <string name="today_s_weather_forecast">Today\'s Weather Forecast</string>
+    <string name="cloudy">cloudy</string>
+</resources>
